@@ -1,0 +1,5 @@
+C:\Users\Nico\Desktop\facturacion-ddd\Servicio\bin\Debug\Servicio.dll
+C:\Users\Nico\Desktop\facturacion-ddd\Servicio\bin\Debug\Servicio.pdb
+C:\Users\Nico\Desktop\facturacion-ddd\Servicio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\facturacion-ddd\Servicio\obj\Debug\Servicio.dll
+C:\Users\Nico\Desktop\facturacion-ddd\Servicio\obj\Debug\Servicio.pdb

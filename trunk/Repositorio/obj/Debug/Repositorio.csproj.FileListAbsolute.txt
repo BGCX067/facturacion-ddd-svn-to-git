@@ -1,0 +1,6 @@
+C:\Users\Nico\Desktop\facturacion-ddd\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\Nico\Desktop\facturacion-ddd\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\Nico\Desktop\facturacion-ddd\Repositorio\bin\Debug\MySql.Data.dll
+C:\Users\Nico\Desktop\facturacion-ddd\Repositorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\facturacion-ddd\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\Nico\Desktop\facturacion-ddd\Repositorio\obj\Debug\Repositorio.pdb

@@ -1,0 +1,13 @@
+C:\Users\Nico\Desktop\facturacion-ddd\UI\bin\Debug\UI.exe
+C:\Users\Nico\Desktop\facturacion-ddd\UI\bin\Debug\UI.pdb
+C:\Users\Nico\Desktop\facturacion-ddd\UI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\facturacion-ddd\UI\obj\x86\Debug\MainWindow.baml
+C:\Users\Nico\Desktop\facturacion-ddd\UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Nico\Desktop\facturacion-ddd\UI\obj\x86\Debug\App.g.cs
+C:\Users\Nico\Desktop\facturacion-ddd\UI\obj\x86\Debug\UI_MarkupCompile.cache
+C:\Users\Nico\Desktop\facturacion-ddd\UI\obj\x86\Debug\UI.g.resources
+C:\Users\Nico\Desktop\facturacion-ddd\UI\obj\x86\Debug\UI.Properties.Resources.resources
+C:\Users\Nico\Desktop\facturacion-ddd\UI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nico\Desktop\facturacion-ddd\UI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nico\Desktop\facturacion-ddd\UI\obj\x86\Debug\UI.exe
+C:\Users\Nico\Desktop\facturacion-ddd\UI\obj\x86\Debug\UI.pdb
